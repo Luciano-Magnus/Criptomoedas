@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Criptomoedas</string>
+    <string name="qtd">Valor investido</string>
+    <string name="cadastro_compra">Cadastrar compra</string>
+    <string name="cadastro_ativo">Cadastro de Ativos</string>
+    <string name="qtd_total">Valor total R$</string>
+    <string name="variacao">Variação</string>
+    <string name="qtd_ativos">Quantidade comprada</string>
+    <string name="qtd_compra">Digite a quantidade</string>
+    <string name="valor_ativo">Valor atual do ativo</string>
+    <string name="net_check">Verifique sua conecção</string>
+</resources>
